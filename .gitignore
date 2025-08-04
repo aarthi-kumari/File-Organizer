@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+ENV/
+env/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Test output
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# dotenv files
+.env
+.env.*
+
+# mypy
+.mypy_cache/
+
+# pytest
+.cache/
+
+# Profiling
+.prof
+
+# SQLite databases
+*.sqlite3
+
+# pip dependency lock
+poetry.lock
+Pipfile.lock
